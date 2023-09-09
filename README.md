@@ -3,7 +3,7 @@
 <p>Es un sistema de inventario para ferreterías, este específicamente esta hecho para la ferretería donde trabajo</p>
 <hr>
 <h2>la aplicación tiene:</h2>
-<p></p>-> Sistema de Login
+<p>-> Sistema de Login</p>
 <p>-> Buscador</p>
 <p>-> Calculadora</p>
 <p>-> Pestaña de proveedores</p>
