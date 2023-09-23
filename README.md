@@ -1,6 +1,6 @@
 <h1 align="center">Proyecto: Ferretería y Cerrajería G&G</h1>
 <h3 align="center">Ferretería y Cerrajería G&G</h3> 
-<p>Es un sistema de inventario para ferreterías, este específicamente esta hecho para la ferretería donde trabajo</p>
+<p>Es un sistema de inventario para ferreterías</p>
 <hr>
 <h2>la aplicación tiene:</h2>
 <p>-> Sistema de Login</p>
